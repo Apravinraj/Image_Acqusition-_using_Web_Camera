@@ -111,17 +111,20 @@ cv2.destroyAllWindows()
 </br>
 
 ### ii) Display the video
-</br>![Screenshot 2024-02-21 221753](https://github.com/Meetha22003992/Image_Acqusition-_using_Web_Camera/assets/119401038/79d2b6ea-5df2-4745-92b9-86bdfc5eeafc)
+
+![306707482-79d2b6ea-5df2-4745-92b9-86bdfc5eeafc](https://github.com/Apravinraj/Image_Acqusition-_using_Web_Camera/assets/118707879/b444511f-818e-4898-a1a3-f6a6c6b0ed33)
 
 </br>
 
 ### iii) Display the video by resizing the window
-</br>![Screenshot 2024-02-21 222340](https://github.com/Meetha22003992/Image_Acqusition-_using_Web_Camera/assets/119401038/bb61055e-9b6d-418b-a7bc-c6bb56ab18aa)
+
+![306707562-bb61055e-9b6d-418b-a7bc-c6bb56ab18aa](https://github.com/Apravinraj/Image_Acqusition-_using_Web_Camera/assets/118707879/06e08b07-6d27-4617-8c15-0975e931dfea)
 
 </br>
 
 ### iv) Rotate and display the video
-</br>![Screenshot 2024-02-21 222425](https://github.com/Meetha22003992/Image_Acqusition-_using_Web_Camera/assets/119401038/cff52233-6cfb-476e-8c9b-6d204c97b31a)
+
+![306707647-cff52233-6cfb-476e-8c9b-6d204c97b31a](https://github.com/Apravinraj/Image_Acqusition-_using_Web_Camera/assets/118707879/f1854c6f-d497-48ac-a470-c4338e315a01)
 
 </br>
 
